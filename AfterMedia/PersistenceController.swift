@@ -5,7 +5,7 @@
 //  Created by Herman Khodyrev on 13.09.26.
 //
 
-import CoreData
+internal import CoreData
 
 final class PersistenceController {
   
@@ -13,7 +13,7 @@ final class PersistenceController {
   
   init() {
     container = NSPersistentContainer(name: "DiaryModel")
-    container.loadPersistentStores{ _, error in
+    container.loadPersistentStores { _, error in
       if let error {
         fatalError("Failed to load Core Data store: \(error)")
       }
