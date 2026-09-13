@@ -1,0 +1,32 @@
+{
+  "AfterMedia/AppDelegate.swift": {
+    "mtime": 1789318104.177406,
+    "ast_hash": "17a3f44f8753963ea8f9dd2169ad327f",
+    "semantic_hash": "17a3f44f8753963ea8f9dd2169ad327f"
+  },
+  "AfterMedia/Assets.xcassets/AccentColor.colorset/Contents.json": {
+    "mtime": 1789318104.1776059,
+    "ast_hash": "55019f7265dde0a78318b0807f98e847",
+    "semantic_hash": "55019f7265dde0a78318b0807f98e847"
+  },
+  "AfterMedia/Assets.xcassets/AppIcon.appiconset/Contents.json": {
+    "mtime": 1789318104.1777408,
+    "ast_hash": "cbe75704b2680422c4156009a528e292",
+    "semantic_hash": "cbe75704b2680422c4156009a528e292"
+  },
+  "AfterMedia/Assets.xcassets/Contents.json": {
+    "mtime": 1789318104.1778204,
+    "ast_hash": "9deb2ada1cc834bbebf8bbad9c8978a1",
+    "semantic_hash": "9deb2ada1cc834bbebf8bbad9c8978a1"
+  },
+  "AfterMedia/SceneDelegate.swift": {
+    "mtime": 1789318104.1782155,
+    "ast_hash": "76d947cfbad0ed9a84768373e9746fa0",
+    "semantic_hash": "76d947cfbad0ed9a84768373e9746fa0"
+  },
+  "AfterMedia/ViewController.swift": {
+    "mtime": 1789318104.1782904,
+    "ast_hash": "86548251c3bc4c39918e13cfc8b34baa",
+    "semantic_hash": "86548251c3bc4c39918e13cfc8b34baa"
+  }
+}

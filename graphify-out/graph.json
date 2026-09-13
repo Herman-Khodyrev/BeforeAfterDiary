@@ -1,0 +1,660 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "AppDelegate.swift",
+      "file_type": "code",
+      "source_file": "AfterMedia/AppDelegate.swift",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "aftermedia_appdelegate",
+      "community": 1,
+      "norm_label": "appdelegate.swift"
+    },
+    {
+      "label": "UIKit",
+      "file_type": "code",
+      "type": "module",
+      "source_file": "AfterMedia/ViewController.swift",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "uikit",
+      "community": 1,
+      "norm_label": "uikit"
+    },
+    {
+      "label": "AppDelegate",
+      "file_type": "code",
+      "source_file": "AfterMedia/AppDelegate.swift",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "aftermedia_appdelegate_appdelegate",
+      "community": 1,
+      "norm_label": "appdelegate"
+    },
+    {
+      "label": "UIResponder",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast",
+      "id": "uiresponder",
+      "community": 1,
+      "norm_label": "uiresponder"
+    },
+    {
+      "label": "UIApplicationDelegate",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast",
+      "id": "uiapplicationdelegate",
+      "community": 1,
+      "norm_label": "uiapplicationdelegate"
+    },
+    {
+      "label": ".application()",
+      "file_type": "code",
+      "source_file": "AfterMedia/AppDelegate.swift",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "aftermedia_appdelegate_appdelegate_application",
+      "community": 0,
+      "norm_label": ".application()"
+    },
+    {
+      "label": "UIApplication",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast",
+      "id": "uiapplication",
+      "community": 0,
+      "norm_label": "uiapplication"
+    },
+    {
+      "label": "Any",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast",
+      "id": "any",
+      "community": 0,
+      "norm_label": "any"
+    },
+    {
+      "label": "Bool",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast",
+      "id": "bool",
+      "community": 0,
+      "norm_label": "bool"
+    },
+    {
+      "label": "UISceneSession",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast",
+      "id": "aftermedia_appdelegate_swift_uiscenesession",
+      "community": 0,
+      "norm_label": "uiscenesession"
+    },
+    {
+      "label": "UIScene",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast",
+      "id": "aftermedia_appdelegate_swift_uiscene",
+      "community": 0,
+      "norm_label": "uiscene"
+    },
+    {
+      "label": "UISceneConfiguration",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast",
+      "id": "uisceneconfiguration",
+      "community": 0,
+      "norm_label": "uisceneconfiguration"
+    },
+    {
+      "label": "Set",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast",
+      "id": "set",
+      "community": 0,
+      "norm_label": "set"
+    },
+    {
+      "label": "SceneDelegate.swift",
+      "file_type": "code",
+      "source_file": "AfterMedia/SceneDelegate.swift",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "aftermedia_scenedelegate",
+      "community": 1,
+      "norm_label": "scenedelegate.swift"
+    },
+    {
+      "label": "SceneDelegate",
+      "file_type": "code",
+      "source_file": "AfterMedia/SceneDelegate.swift",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "aftermedia_scenedelegate_scenedelegate",
+      "community": 2,
+      "norm_label": "scenedelegate"
+    },
+    {
+      "label": "UIWindowSceneDelegate",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast",
+      "id": "uiwindowscenedelegate",
+      "community": 2,
+      "norm_label": "uiwindowscenedelegate"
+    },
+    {
+      "label": "UIWindow",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast",
+      "id": "uiwindow",
+      "community": 2,
+      "norm_label": "uiwindow"
+    },
+    {
+      "label": ".scene()",
+      "file_type": "code",
+      "source_file": "AfterMedia/SceneDelegate.swift",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "aftermedia_scenedelegate_scenedelegate_scene",
+      "community": 5,
+      "norm_label": ".scene()"
+    },
+    {
+      "label": "UIScene",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast",
+      "id": "aftermedia_scenedelegate_swift_uiscene",
+      "community": 3,
+      "norm_label": "uiscene"
+    },
+    {
+      "label": "UISceneSession",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast",
+      "id": "aftermedia_scenedelegate_swift_uiscenesession",
+      "community": 5,
+      "norm_label": "uiscenesession"
+    },
+    {
+      "label": ".sceneDidDisconnect()",
+      "file_type": "code",
+      "source_file": "AfterMedia/SceneDelegate.swift",
+      "source_location": "L22",
+      "_origin": "ast",
+      "id": "aftermedia_scenedelegate_scenedelegate_scenediddisconnect",
+      "community": 2,
+      "norm_label": ".scenediddisconnect()"
+    },
+    {
+      "label": ".sceneDidBecomeActive()",
+      "file_type": "code",
+      "source_file": "AfterMedia/SceneDelegate.swift",
+      "source_location": "L29",
+      "_origin": "ast",
+      "id": "aftermedia_scenedelegate_scenedelegate_scenedidbecomeactive",
+      "community": 3,
+      "norm_label": ".scenedidbecomeactive()"
+    },
+    {
+      "label": ".sceneWillResignActive()",
+      "file_type": "code",
+      "source_file": "AfterMedia/SceneDelegate.swift",
+      "source_location": "L34",
+      "_origin": "ast",
+      "id": "aftermedia_scenedelegate_scenedelegate_scenewillresignactive",
+      "community": 2,
+      "norm_label": ".scenewillresignactive()"
+    },
+    {
+      "label": ".sceneWillEnterForeground()",
+      "file_type": "code",
+      "source_file": "AfterMedia/SceneDelegate.swift",
+      "source_location": "L39",
+      "_origin": "ast",
+      "id": "aftermedia_scenedelegate_scenedelegate_scenewillenterforeground",
+      "community": 3,
+      "norm_label": ".scenewillenterforeground()"
+    },
+    {
+      "label": ".sceneDidEnterBackground()",
+      "file_type": "code",
+      "source_file": "AfterMedia/SceneDelegate.swift",
+      "source_location": "L44",
+      "_origin": "ast",
+      "id": "aftermedia_scenedelegate_scenedelegate_scenedidenterbackground",
+      "community": 3,
+      "norm_label": ".scenedidenterbackground()"
+    },
+    {
+      "label": "ViewController.swift",
+      "file_type": "code",
+      "source_file": "AfterMedia/ViewController.swift",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "aftermedia_viewcontroller",
+      "community": 4,
+      "norm_label": "viewcontroller.swift"
+    },
+    {
+      "label": "ViewController",
+      "file_type": "code",
+      "source_file": "AfterMedia/ViewController.swift",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "aftermedia_viewcontroller_viewcontroller",
+      "community": 4,
+      "norm_label": "viewcontroller"
+    },
+    {
+      "label": "UIViewController",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast",
+      "id": "uiviewcontroller",
+      "community": 4,
+      "norm_label": "uiviewcontroller"
+    },
+    {
+      "label": ".viewDidLoad()",
+      "file_type": "code",
+      "source_file": "AfterMedia/ViewController.swift",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "aftermedia_viewcontroller_viewcontroller_viewdidload",
+      "community": 4,
+      "norm_label": ".viewdidload()"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/AppDelegate.swift",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "aftermedia_appdelegate",
+      "target": "aftermedia_appdelegate_appdelegate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/AppDelegate.swift",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "aftermedia_appdelegate",
+      "target": "uikit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/SceneDelegate.swift",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "aftermedia_scenedelegate",
+      "target": "uikit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/ViewController.swift",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "aftermedia_viewcontroller",
+      "target": "uikit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/AppDelegate.swift",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "aftermedia_appdelegate_appdelegate",
+      "target": "aftermedia_appdelegate_appdelegate_application",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/AppDelegate.swift",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "aftermedia_appdelegate_appdelegate",
+      "target": "uiapplicationdelegate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/AppDelegate.swift",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "aftermedia_appdelegate_appdelegate",
+      "target": "uiresponder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/SceneDelegate.swift",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "aftermedia_scenedelegate_scenedelegate",
+      "target": "uiresponder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/AppDelegate.swift",
+      "source_location": "L22",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "aftermedia_appdelegate_appdelegate_application",
+      "target": "aftermedia_appdelegate_swift_uiscene",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/AppDelegate.swift",
+      "source_location": "L28",
+      "weight": 1.0,
+      "context": "generic_arg",
+      "source": "aftermedia_appdelegate_appdelegate_application",
+      "target": "aftermedia_appdelegate_swift_uiscenesession",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/AppDelegate.swift",
+      "source_location": "L15",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "aftermedia_appdelegate_appdelegate_application",
+      "target": "any",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/AppDelegate.swift",
+      "source_location": "L15",
+      "weight": 1.0,
+      "context": "return_type",
+      "source": "aftermedia_appdelegate_appdelegate_application",
+      "target": "bool",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/AppDelegate.swift",
+      "source_location": "L28",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "aftermedia_appdelegate_appdelegate_application",
+      "target": "set",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/AppDelegate.swift",
+      "source_location": "L28",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "aftermedia_appdelegate_appdelegate_application",
+      "target": "uiapplication",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "context": "return_type",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/AppDelegate.swift",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "aftermedia_appdelegate_appdelegate_application",
+      "target": "uisceneconfiguration",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/SceneDelegate.swift",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "aftermedia_scenedelegate",
+      "target": "aftermedia_scenedelegate_scenedelegate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/SceneDelegate.swift",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "aftermedia_scenedelegate_scenedelegate",
+      "target": "aftermedia_scenedelegate_scenedelegate_scene",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/SceneDelegate.swift",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "aftermedia_scenedelegate_scenedelegate",
+      "target": "aftermedia_scenedelegate_scenedelegate_scenedidbecomeactive",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/SceneDelegate.swift",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "aftermedia_scenedelegate_scenedelegate",
+      "target": "aftermedia_scenedelegate_scenedelegate_scenediddisconnect",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/SceneDelegate.swift",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "aftermedia_scenedelegate_scenedelegate",
+      "target": "aftermedia_scenedelegate_scenedelegate_scenedidenterbackground",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/SceneDelegate.swift",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "aftermedia_scenedelegate_scenedelegate",
+      "target": "aftermedia_scenedelegate_scenedelegate_scenewillenterforeground",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/SceneDelegate.swift",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "aftermedia_scenedelegate_scenedelegate",
+      "target": "aftermedia_scenedelegate_scenedelegate_scenewillresignactive",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/SceneDelegate.swift",
+      "source_location": "L12",
+      "weight": 1.0,
+      "context": "field",
+      "source": "aftermedia_scenedelegate_scenedelegate",
+      "target": "uiwindow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/SceneDelegate.swift",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "aftermedia_scenedelegate_scenedelegate",
+      "target": "uiwindowscenedelegate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/SceneDelegate.swift",
+      "source_location": "L15",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "aftermedia_scenedelegate_scenedelegate_scene",
+      "target": "aftermedia_scenedelegate_swift_uiscene",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/SceneDelegate.swift",
+      "source_location": "L15",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "aftermedia_scenedelegate_scenedelegate_scene",
+      "target": "aftermedia_scenedelegate_swift_uiscenesession",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/SceneDelegate.swift",
+      "source_location": "L29",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "aftermedia_scenedelegate_scenedelegate_scenedidbecomeactive",
+      "target": "aftermedia_scenedelegate_swift_uiscene",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/SceneDelegate.swift",
+      "source_location": "L22",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "aftermedia_scenedelegate_scenedelegate_scenediddisconnect",
+      "target": "aftermedia_scenedelegate_swift_uiscene",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/SceneDelegate.swift",
+      "source_location": "L44",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "aftermedia_scenedelegate_scenedelegate_scenedidenterbackground",
+      "target": "aftermedia_scenedelegate_swift_uiscene",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/SceneDelegate.swift",
+      "source_location": "L39",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "aftermedia_scenedelegate_scenedelegate_scenewillenterforeground",
+      "target": "aftermedia_scenedelegate_swift_uiscene",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/SceneDelegate.swift",
+      "source_location": "L34",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "aftermedia_scenedelegate_scenedelegate_scenewillresignactive",
+      "target": "aftermedia_scenedelegate_swift_uiscene",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/ViewController.swift",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "aftermedia_viewcontroller",
+      "target": "aftermedia_viewcontroller_viewcontroller",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/ViewController.swift",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "aftermedia_viewcontroller_viewcontroller",
+      "target": "aftermedia_viewcontroller_viewcontroller_viewdidload",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "AfterMedia/ViewController.swift",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "aftermedia_viewcontroller_viewcontroller",
+      "target": "uiviewcontroller",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "6522f912cc3b562d3bc7d90f63ca0aecb9634013"
+}
